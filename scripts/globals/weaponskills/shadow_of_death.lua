@@ -1,7 +1,7 @@
 -----------------------------------
 -- Shadow of Death
 -- Scythe weapon skill
--- Skill Level: 70
+-- Skill Level: 99
 -- Delivers a dark elemental attack. Damage varies with TP.
 -- Aligned with the Snow Gorget & Aqua Gorget.
 -- Aligned with the Snow Belt & Aqua Belt.
